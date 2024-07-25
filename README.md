@@ -1,7 +1,8 @@
 # CvEploiterv2 x xWPv3 [Ultimate/Beast Software.]
 
-[The most advanced software for CV 2024 expl0its and WordPress vulnerabilities
-     with the latest version/method.]
+***[The most advanced software for CV 2024 expl0its and WordPress vulnerabilities
+     with the latest version/method.]***
+
 
 1x => CVE-2024-38761 - Wordpress [Zephyr Project Manager] < Unauthenticated Information Exposure.
 
