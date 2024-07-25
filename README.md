@@ -21,3 +21,7 @@
 8x => CVE-2024-4836 - [Edito CMS] < Unauthenticated Sensitive Data Leak.
 
 9x => CVE-2024-32399 - RaidenMAILD [MailServer] < Unauthenticated Path Traversal.
+
+
+![Screenshot 2024-07-25 002215](https://github.com/user-attachments/assets/faa40555-d3b9-4e0c-90f0-c4d704b2103d)
+
